@@ -191,7 +191,6 @@
     lazygit
     xsel
     ripgrep
-    stylua
     fd
     zellij
     # NVIDIA
