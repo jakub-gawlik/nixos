@@ -2,6 +2,14 @@
 
 Personal NixOS configuration file.
 
+stylua is sourced from unstable channel, as of this commit, stylua in stable "24.11" channel is outdated.
+
+To use this config, adding unstable channel is required:
+```
+nix-channel --add https://nixos.org/channels/nixpkgs-unstable nixpkgs-unstable
+nix-channel --update
+```
+
 Enables extra configs and settings:
 - GRUB for dual boot,
 - tuxedo keyboard drivers,
