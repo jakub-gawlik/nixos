@@ -189,6 +189,7 @@ in
     nextcloud-client
     nmap
     nodejs
+    obsidian
     php83
     php83Packages.composer
     powerline-fonts
@@ -199,6 +200,7 @@ in
     wget
     xsel
     yarn
+    zed-editor
     zellij
     # NVIDIA
     nvidia-vaapi-driver    # VAAPI support
